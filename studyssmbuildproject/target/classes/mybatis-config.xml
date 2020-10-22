@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <!-- 数据库配置文件 -->
+    <!-- 文件格式位置：https://mybatis.org/mybatis-3/zh/getting-started.html -->
+    <!-- 本来要配置数据源，但是现在交给Spring来做   -->
+
+    <!-- 扫描包，所有类的别名就是类名   -->
+    <typeAliases>
+        <package name="com.wujingjun.ssm.pojo"/>
+    </typeAliases>
+
+
+    <!-- 注册Mapper   -->
+    <mappers>
+        <mapper resource="com.wujingjun.ssm.dao/BookMapper.xml"/>
+    </mappers>
+
+</configuration>
