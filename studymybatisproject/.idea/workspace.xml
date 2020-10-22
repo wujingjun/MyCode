@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="885a2145-4087-4614-8f59-ff89b7f1ece9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iJIEwCzp3F2iY1x4hJPNiwqFNV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-06/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideassm\studymybatisproject\mybatis-06\src\main\resources" />
+      <recent name="D:\ideassm\studymybatisproject\mybatis-05\src\main\resources" />
+      <recent name="D:\ideassm\studymybatisproject\mybatis-05\src\main\resources\com.wujingjun.mybatis05.dao" />
+      <recent name="D:\ideassm\studymybatisproject\mybatis-04\src\main\resources" />
+      <recent name="D:\ideassm\studymybatisproject\mybatis-03\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wujingjun.mybatis06.pojo" />
+      <recent name="com.wujingjun.mybatis05.util" />
+      <recent name="com.wujingjun.mybatis3.pojo" />
+      <recent name="com.wujingjun.mybatis3.util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideassm\studymybatisproject\mybatis-06\src\main\resources\com.wujingjun.mybatis06.dao" />
+      <recent name="D:\ideassm\studymybatisproject\mybatis-06\src\main\resources" />
+      <recent name="D:\ideassm\studymybatisproject\mybatis-03\src\main\resources\com.wujingjun.mybatis3.dao" />
+      <recent name="D:\ideassm\studymybatisproject\mybatis-02\src\main\resources\wujingjun.dao" />
+      <recent name="D:\ideassm\studymybatisproject\mybatis-01\src\main\resources\com.wujingjun.dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.UserMapperTest.test2">
+    <configuration name="BlogMapperTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wujingjun.mybatis05.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wujingjun.mybatis05.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.wujingjun.mybatis05.dao.BlogMapperTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogMapperTest.testChooes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wujingjun.mybatis05.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wujingjun.mybatis05.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.wujingjun.mybatis05.dao.BlogMapperTest" />
+      <option name="METHOD_NAME" value="testChooes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogMapperTest.testforeach" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wujingjun.mybatis05.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wujingjun.mybatis05.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.wujingjun.mybatis05.dao.BlogMapperTest" />
+      <option name="METHOD_NAME" value="testforeach" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis06" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserMapperTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis06" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserMapperTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserMapperTest.test2" />
+        <item itemvalue="JUnit.UserMapperTest.test1" />
+        <item itemvalue="JUnit.BlogMapperTest.testforeach" />
+        <item itemvalue="JUnit.BlogMapperTest.test2" />
+        <item itemvalue="JUnit.BlogMapperTest.testChooes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="885a2145-4087-4614-8f59-ff89b7f1ece9" name="Default Changelist" comment="" />
+      <created>1601619159348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601619159348</updated>
+      <workItem from="1601619162270" duration="3986000" />
+      <workItem from="1601689416950" duration="3498000" />
+      <workItem from="1601801709009" duration="34000" />
+      <workItem from="1601801911953" duration="2901000" />
+      <workItem from="1601822202495" duration="2733000" />
+      <workItem from="1601824986243" duration="2769000" />
+      <workItem from="1601864719058" duration="4377000" />
+      <workItem from="1601912280156" duration="218000" />
+      <workItem from="1601951819793" duration="8143000" />
+      <workItem from="1602041453069" duration="11000" />
+      <workItem from="1603088724071" duration="13000" />
+      <workItem from="1603088761123" duration="69000" />
+      <workItem from="1603093994801" duration="10000" />
+      <workItem from="1603247075728" duration="160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((DefaultSqlSession)sqlSession).executor" custom="org.apache.ibatis.session.defaults.DefaultSqlSession" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
