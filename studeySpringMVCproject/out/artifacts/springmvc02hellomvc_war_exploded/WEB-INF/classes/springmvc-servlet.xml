@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--  实际上就是Spring的配置文件的格式  -->
+
+    <!--  处理器映射器：负责根据xml配置或者注解得知请求该由哪个handler(controller包含在里面)来处理  -->
+    <bean class="org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping"/>
+
+    <!--  处理器适配器：负责按照特定的规则去执行Handler，然后handler让具体的controller执行,
+    controller将具体的执行信息返回给HandlerAdapter,如ModelAndView,
+     HandlerAdapter将视图逻辑或模型传递给DispatcherServlet-->
+    <bean class="org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter"/>
+
+    <!--  视图解析器：DispatcherServlet给他的ModelAndView
+      1.获取了ModelAndView的数据
+      2.解析ModelAndView的视图名字
+      3.拼接视图名字，找到对应的视图
+      -->
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver" id="internalResourceViewResolver">
+        <!--   前缀     -->
+        <property name="prefix" value="/WEB-INF/jsp/"/>
+        <!--   后缀     -->
+        <property name="suffix" value=".jsp"/>
+    </bean>
+
+    <!-- handler的一部分   -->
+    <bean id="/hello" class="com.wujingjun.springmvc02.controller"/>
+
+</beans>
